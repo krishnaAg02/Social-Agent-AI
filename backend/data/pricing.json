@@ -1,0 +1,5 @@
+[
+  { "plan": "Basic", "price": "$9/mo", "features": ["5 posts/day", "1 user", "Basic analytics"] },
+  { "plan": "Pro", "price": "$29/mo", "features": ["20 posts/day", "3 users", "Advanced analytics"] },
+  { "plan": "Enterprise", "price": "$99/mo", "features": ["Unlimited posts", "10 users", "Priority support"] }
+]
